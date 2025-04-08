@@ -20,12 +20,3 @@ This project implements a ResNet (Residual Network) architecture tailored for st
 
 - Python 3.7 or higher
 - Required packages: `numpy`, `pandas`, `pytorch`, `matplotlib`, etc.
-
-### Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/Resnet-for-stock-market-prediction.git
-   cd Resnet-for-stock-market-prediction
-
