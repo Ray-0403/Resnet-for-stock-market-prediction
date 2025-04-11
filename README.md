@@ -20,3 +20,6 @@ This project implements a ResNet (Residual Network) architecture tailored for st
 
 - Python 3.7 or higher
 - Required packages: `numpy`, `pandas`, `pytorch`, `matplotlib`, etc.
+
+- <img width="726" alt="Screenshot 2025-03-29 at 00 53 18" src="https://github.com/user-attachments/assets/47fa07f2-745a-40b2-acfa-06ea83a3c807" />
+
